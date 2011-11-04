@@ -1,0 +1,11 @@
+Package: com.rpetrich.xattrlist
+Priority: optional
+Section: System
+Architecture: iphoneos-arm
+Version: 0.1
+Description: List extended attributes
+Name: untrackerd
+Depends: firmware (>= 3.0)
+Author: Ryan Petrich <rpetrich+xattrlist@gmail.com>
+Sponsor: Medialets <http://www.medialets.com>
+dev: rpetrich
